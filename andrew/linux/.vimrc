@@ -19,6 +19,7 @@ set wildmode=list:longest
 "set Tab Space to 2
 set ts=2
 set shiftwidth=2
+set expandtab
 
 "make the title show up as the terminal title
 set title
